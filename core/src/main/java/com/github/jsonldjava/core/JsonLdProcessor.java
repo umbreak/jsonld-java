@@ -2,11 +2,9 @@ package com.github.jsonldjava.core;
 
 import static com.github.jsonldjava.utils.Obj.newMap;
 
-import java.util.Arrays;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.LinkedHashMap;
-import java.util.LinkedList;
 import java.util.List;
 import java.util.Map;
 
